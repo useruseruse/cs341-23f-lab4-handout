@@ -1,6 +1,6 @@
 from hash_utils import *
 
-# Write your code to produce two letters here
+# Write your code to generate two letters here
 
 
 
