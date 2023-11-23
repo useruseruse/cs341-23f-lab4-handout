@@ -1,5 +1,9 @@
 from hash_utils import *
 
+# Write your code to produce two letters here
+
+
+
 # Write your solution here
 shf24_alice = None
 shf24_bob = None
