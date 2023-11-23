@@ -1,6 +1,6 @@
 from hash_utils import *
 
-# Submit your solution here
+# Write your solution here
 shf24_alice = None
 shf24_bob = None
 
